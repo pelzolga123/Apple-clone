@@ -1,0 +1,207 @@
+body{
+    margin: 0;
+    padding: 0;
+
+}
+main{
+ font-family:    "Lucida Grande", "Lucida Sans Unicode", Helvetica, Arial, Verdana, sans-serif;
+ display: flex;
+ flex-direction: column;
+ 
+}
+li{
+    list-style: none;
+}
+nav{
+    margin-top: 9%;
+}
+.menu-div{
+    
+    width: 930px;
+    color: #fff;
+    background: -webkit-gradient(linear, 0 0, 0 100%, 
+                from(rgba(0, 0, 0, .2)), 
+                color-stop(0.05, rgba(0, 0, 0, 0)), 
+                color-stop(0.97, rgba(0, 0, 0, 0)), 
+                to(rgba(0, 0, 0, .45))), 
+                -webkit-gradient(linear, 0 0, 100% 0, from(rgba(0, 0, 0, .2)), 
+                color-stop(0.002, rgba(0, 0, 0, 0)), 
+                color-stop(0.998, rgba(0, 0, 0, 0)), to(rgba(0, 0, 0, .2))), 
+                -webkit-gradient(linear, 0 100%, 0 0, from(#666), 
+                color-stop(0.5, #5e5e5e), color-stop(0.51, #707070), to(#808080));
+
+   height: 36px;  
+   margin-left: auto;
+   margin-right: auto;   
+   border-radius: 5px;
+}
+.menu-bar{
+    display: flex;
+    flex-direction: row;
+    margin: 0;
+    padding: 0;
+    height: 36px; 
+    border-radius: 4px 0 0 4px;
+
+}
+
+.play-video{
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 20%;
+    font-size: 24px;
+    font-weight: 100;
+}
+.fa-play-circle{
+    margin-left: 5px;
+}
+.main-img{
+    background: url(https://web.archive.org/web/20140301004302im_/http://images.apple.com/v/home/as/images/your_verse_hero.jpg) 50% 100% no-repeat;
+    margin: 0;
+    padding:0;
+    background-size: 1440px 1315px;
+    height: 600px;
+}
+.menu-bar-li{
+ 
+ display: flex;
+ align-items: center;
+ width: 100px;
+ justify-content: center;
+ box-shadow :rgba(0,0,0,0.3) 0 1px 2px;
+ cursor: pointer;
+ 
+}
+.menu-bar-li:hover{
+    background-color: rgba(0,0,0,0.3)
+}
+.iphone-models{
+    display: flex;
+    flex-direction: row;
+    padding: 0;
+    margin-top: 2px;
+    cursor: pointer;
+    
+}
+.iphone-model{
+    margin-right:2px;
+    
+}
+footer{
+    display: flex;
+    flex-direction: column;
+    color: #6e6e6e;
+}
+.info{
+    font-size: 11px;
+    width: 49%;
+}
+.footer-menu{
+    font-size: 11px;
+    width: 49%;
+}
+.footer-ul{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    margin: 0;
+    padding: 0;
+}
+.footer-img{
+    width:15px;
+    cursor: pointer;
+}
+.info-div{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 20%;
+    margin-right: 20%;
+    font-size: 11px;
+}
+.info-p{
+    line-height: 1.2;
+    margin: 0;
+    padding: 0;
+}
+.footer-a{
+    color: #08c;
+    text-decoration: none;
+}
+.info-div-last{
+    display: flex;
+    margin-left: 20%;
+    font-size: 11px;
+}
+.image-div{
+    position: relative;
+    z-index: 10;
+    overflow: hidden;
+    height: 31px;
+    display: flex;
+    justify-content: center;
+}
+.image-a{
+    display: inline-block;
+    text-decoration: none;
+    height: 32px;
+
+}
+.image{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    height: 94px;
+    margin-top: 20px;
+    cursor:pointer;
+
+}
+input{
+    background: transparent;
+    border: none;
+    position: relative;
+    display: block;
+    width: 80px;
+    margin-top: -17px;
+    margin-left: 20%;
+}
+
+
+
+.central-text{
+    margin-bottom:50px; 
+}
+.search-menu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.search-div{
+    border: 1px solid #5e5e5e;
+    border-radius: 15px;
+    width: 100px;
+    height: 20px;
+    background-color: rgba(255,255,255,.1);
+}
+.fa-search{
+    font-size:12px;
+    margin: 5px 0px 0px 5px;
+    display: flex;    
+
+}
+.iphone-model-img{
+width: 358.5px;
+height: auto;
+}
+.iphone-models-div{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
