@@ -9,7 +9,7 @@ Used:
 
 # Author
 
-*Olga Pelts https://github.com/pelzolga123
+* Olga Pelts https://github.com/pelzolga123
 
 # The Website
 Follow this link to access to the website:
