@@ -16,6 +16,8 @@ This is a clone of old Apple page. Webpage contains embedded images and thumbnai
 
 👤 **Olga Pelts**
    - Github: [@pelzolga123](https://github.com/pelzolga123)
+   - LinkedIn: [Olga Pelts](https://www.linkedin.com/in/olga-pelts/)
+   
 
 ## 🤝 Contributing
 
