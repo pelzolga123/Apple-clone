@@ -1,20 +1,3 @@
-# 
-
-This is a clone of old Apple page. Webpage contains embedded images and thumbnails.
-
-Used:
-
-* HTML
-* CSS
-
-# Author
-
-* Olga Pelts https://github.com/pelzolga123
-
-# The Website
-Follow this link to access to the website:
-
-
 <h1 align="center">Apple-clone 👋</h1>
 
 <img src="https://i.ibb.co/QvJ7Jzd/Screenshot-from-2020-03-16-17-40-52.png" alt="Screenshot-from-2020-03-16-17-40-52" border="0">
